@@ -22,7 +22,7 @@ bin
 *.iml
 
 # Scala Worksheet
-*.sc
+# *.sc
 
 ## Directory-based project format:
 .idea/
